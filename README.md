@@ -1,5 +1,6 @@
 # German-eBay-dataset
 This project was taken as an exercise to practice data cleansing. The dataset consists of vehicles classifieds section of the German eBay website for vehicles.
+<br>
 What I learned:
 1-The method describes shows the number of unique values, but in some situations you can have no unique values, but it does not mean the values are the same.
 e.g.: in a class with students from many countries such as Brazil, Argentina, Mexico, and Japan. If you use the method described in the unique value you can have null values, because you can have 2 from Argentina, 2 from Mexico and 2 from Japan. 
