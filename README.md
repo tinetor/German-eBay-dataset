@@ -21,5 +21,5 @@ A more accurate way would be using the described method and for the columns that
 2-It is safer to create a list of columns you want to delete, instead delete one-by-one.
 <br>
 <br>
-3- Sometimes you can fix missing values with values in other rows.In this project there missing values for the category of a car model, but you checking another row with the same model you can just find out the category. the procedure it explained in the project.
+3- Sometimes you can fix missing values with values in other rows.In this project there missing values for the category of a car model, but  checking another row with the same model you can just find out the category. the procedure it explained in the project.
 
