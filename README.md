@@ -1,6 +1,8 @@
 # German-eBay-dataset
+Many people say they want to buy the most expensive car when they get rich, but while they are not they have to take cheaper ones. This kind of situation makes us think that a low price is a driving factor while deciding a car. Using this context as motivation we are going to investigate  the characteristics of most popular brands on eBay. If the theory that a lower price is determinant the most popular cars will be the ones with a lower price.
 
-This project is focused on answering which characteristics do have the most popular brands on eBay? The dataset consists of vehicles classifieds section on the German eBay website for vehicles. The main areas of this analysis are data cleaning and data visualization. The data set was download from Kaggle https://www.kaggle.com/orgesleka/used-cars-database.
+The dataset consists of vehicles classifieds section on the German eBay website for vehicles. The main areas of this analysis are data cleaning and data visualization. The data set was download from Kaggle https://www.kaggle.com/orgesleka/used-cars-database.
+<br>
 <br>
 Steps:
 **Import Packages,
