@@ -1,9 +1,13 @@
 # German-eBay-dataset
 
-This project is focused on answering which the characteristics do have the most popular brands on eBay? The dataset consists of vehicles classifieds section of the German eBay website for vehicles. The main areas in this analysis are data cleaning and data visualization. The data set was download from Kaggle https://www.kaggle.com/orgesleka/used-cars-database.
+This project is focused on answering which characteristics do have the most popular brands on eBay? The dataset consists of vehicles classifieds section on the German eBay website for vehicles. The main areas of this analysis are data cleaning and data visualization. The data set was download from Kaggle https://www.kaggle.com/orgesleka/used-cars-database.
 <br>
 Steps:
-**Import Packages,Read dataset,Explore data,Detecting missing values,Detecting anomalies,Imputing for missing values,Merging issues,Joining multiples datasets**
+**Import Packages,
+Read dataset,
+Explore data,
+Detecting missing values
+,Detecting anomalies,Imputing for missing values,Merging issues,Joining multiples datasets**
 <br>
 <br>
 What I learned:
